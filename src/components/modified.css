@@ -1,0 +1,123 @@
+.sidebar-bg {
+  background-color: rgb(192 116 116 / 20%);
+}
+
+.msg-home {
+  background: rgb(255, 246, 157);
+  background: radial-gradient(
+    circle,
+    rgba(255, 246, 157, 1) 0%,
+    rgba(148, 115, 255, 0.5663515406162465) 100%
+  );
+}
+
+.color-bl {
+  color: black;
+}
+
+.update-profile {
+  border: 2px solid black;
+  background-color: #9fcadc;
+  text-align: center;
+
+  form {
+    margin: 25px;
+    padding: 15px;
+    border: 1px solid black;
+    background-color: #6bafef;
+    text-align: left;
+
+    input {
+      background: #b6bcf2;
+    }
+    hover:input {
+      transform: scale(0.2);
+    }
+  }
+}
+
+.header-modify {
+}
+
+.register-css {
+  background-color: #9fcadc;
+  text-align: center;
+  margin-top: 40px;
+  font-size: large;
+
+  form {
+    text-align: left;
+    font-size: medium;
+
+    input {
+      background: #f8ffe8;
+      border: 1px solid black;
+      border-radius: 10px;
+    }
+    hover:input {
+      transform: scale(0.2);
+    }
+  }
+}
+
+.check-email {
+  background-color: #9fcadc;
+  text-align: center;
+  margin-top: 60px;
+  font-size: large;
+
+  form {
+    text-align: left;
+    font-size: medium;
+
+    input {
+      background: #f8ffe8;
+      border: 1px solid black;
+      border-radius: 10px;
+    }
+    hover:input {
+      transform: scale(0.2);
+    }
+  }
+}
+
+.check-password {
+  background-color: #9fcadc;
+  text-align: center;
+  margin-top: 60px;
+  font-size: large;
+
+  form {
+    text-align: left;
+    font-size: medium;
+
+    input {
+      background: #f8ffe8;
+      border: 1px solid black;
+      border-radius: 10px;
+    }
+    hover:input {
+      transform: scale(0.2);
+    }
+  }
+}
+
+.search-user {
+  input {
+    background: #f8ffe8;
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+}
+
+.search-result2 {
+  background: #f8ffe8;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+
+.search-result {
+  background-color: #f6eaea;
+  border-radius: 15px;
+}
